@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="UserResource:war exploded">
+    <output-path>$PROJECT_DIR$/RESTResource/UserResource/target/UserResource</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="UserResource" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-bundle:1.18.3" />
+          <element id="library" level="project" name="Maven: javax.ws.rs:jsr311-api:1.1.1" />
+          <element id="archive" name="UserService-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="UserService" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/RESTResource/UserResource/target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="UserResource/web/Web" />
+    </root>
+  </artifact>
+</component>

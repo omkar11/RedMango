@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RESTDAL/RESTDAL.iml" filepath="$PROJECT_DIR$/RESTDAL/RESTDAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RESTResource/RESTResource.iml" filepath="$PROJECT_DIR$/RESTResource/RESTResource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RESTServices/RESTServices.iml" filepath="$PROJECT_DIR$/RESTServices/RESTServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedMango.iml" filepath="$PROJECT_DIR$/RedMango.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RESTResource/UserResource/RestResource/UserResource.iml" filepath="$PROJECT_DIR$/RESTResource/UserResource/RestResource/UserResource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RESTServices/UserService/RESTServices/UserService.iml" filepath="$PROJECT_DIR$/RESTServices/UserService/RESTServices/UserService.iml" />
+    </modules>
+  </component>
+</project>
